@@ -4,6 +4,8 @@ Note: D2L stands for Brightspace Desire2Learn LMS software.
 
 The tool was made by Dr. Mohammad Keyhani at the Haskayne School of Business, University of Calgary to automate the process of downloading attachments submitted by students on D2L discussion boards. The code was written with help from ChatGPT.
 
+The easy-to-use exe file can be downloaded at https://tinyurl.com/D2LDownloader
+
 ## Requirements For Executable (exe file)
 - Windows OS
 - Chrome browser
