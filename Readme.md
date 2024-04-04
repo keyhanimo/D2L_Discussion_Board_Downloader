@@ -2,7 +2,7 @@
 This tool helps you download all attachment files from a D2L discussion board and save them to your computer such that each file name begins with the last name of the submitter.
 Note: D2L stands for Brightspace Desire2Learn LMS software.
 
-The tool was made by Dr. Mohammad Keyhani at the Haskayne School of Business, University of Calgary to automate the process of downloading attachmentes submitted by students on D2L discussion boards. The code was written with help from ChatGPT.
+The tool was made by Dr. Mohammad Keyhani at the Haskayne School of Business, University of Calgary to automate the process of downloading attachments submitted by students on D2L discussion boards. The code was written with help from ChatGPT.
 
 ## Requirements For Executable (exe file)
 - Windows OS
